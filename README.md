@@ -8,7 +8,7 @@
 
 **Cách dùng repo này**
 - Muốn dùng được thì phải học lớp các cô này xd, nhưng mà nếu học lớp khác thì chắc cũng sẽ làm mấy bài giống hệt như này thôi
-- Phần bài tập lý thuyết chỉ **THAM KHẢO THÔI** tại vì bài làm không đúng hết
+- Phần bài tập lý thuyết chỉ **THAM KHẢO THÔI** tại vì bài làm không đúng hết. Các bài vẽ vẽ trên draw.io
 - Phần bài tập thực hành thì dùng ngon, bài kiểm tra giữa kì thì ko giữ đề
 ---
 
