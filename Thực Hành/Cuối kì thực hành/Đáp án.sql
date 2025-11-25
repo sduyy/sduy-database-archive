@@ -54,6 +54,7 @@ ORDER BY total DESC
 LIMIT 1
 
 -- Câu 7
+-- Câu này tool chứ ko hiểu :))
 SELECT c.customerNumber, c.customerName,
        SUM(od.quantityOrdered) as tiemNang
 FROM customers c
@@ -65,6 +66,7 @@ GROUP BY c.customerNumber, c.customerName
 ORDER BY tiemNang DESC
 
 -- Câu 8
+-- Câu này chạy vẫn lỗi nhưng mà hết giờ phải nộp
 UPDATE orders
 SET comments = 'First order'
 WHERE MONTH(orderDate) = (SELECT MONTH(MIN(orderDate)) FROM orders)
