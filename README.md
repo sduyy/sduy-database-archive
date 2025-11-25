@@ -10,6 +10,7 @@
 - Muốn dùng được thì phải học lớp các cô này xd, nhưng mà nếu học lớp khác thì chắc cũng sẽ làm mấy bài giống hệt như này thôi
 - Phần bài tập lý thuyết chỉ **THAM KHẢO THÔI** tại vì bài làm không đúng hết
 - Phần bài tập thực hành thì dùng ngon, bài kiểm tra giữa kì thì ko giữ đề
+---
 
 **Review/Tips cheat qua môn XD:**
 - Cô Hậu chill, gọi lên bảng khả năng cao chỉ 1 lần, cố lên bảng mấy bài đầu lấy điểm cao để bài sau ko bị gọi
