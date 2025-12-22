@@ -12,7 +12,7 @@
 - Phần bài tập thực hành thì dùng ngon, bài kiểm tra giữa kì thì ko giữ đề
 ---
 
-**Review/Tips cheat qua môn XD:**
+**Review/Tips qua môn XD:**
 - Cô Hậu chill, gọi lên bảng khả năng cao chỉ 1 lần, cố lên bảng mấy bài đầu lấy điểm cao để bài sau ko bị gọi
 - Kiểm tra tổng 4 bài, 2 lý thuyết 2 thực hành, giữa kì cuối kì. Ko thi tập trung. Thi lý thuyết phải dùng SafeBrowser (ko thoát được màn hình làm bài). Kiểm tra lý thuyết 2 phần, phần trắc nghiệm khoảng 60 câu làm trong hơn 1 tiếng, phần tự luận vẽ hình/làm bài ra giấy.
 
