@@ -6,14 +6,14 @@
 - Anh Nguyễn Văn Công (Thực hành)
 ---
 
-**Cách dùng repo này**
+**Cách dùng repo**
 - Muốn dùng được thì phải học lớp các cô này xd, nhưng mà nếu học lớp khác thì chắc cũng sẽ làm mấy bài giống hệt như này thôi
 - Phần bài tập lý thuyết chỉ **THAM KHẢO THÔI** tại vì bài làm không đúng hết. Các bài vẽ vẽ trên draw.io
-- Phần bài tập thực hành thì dùng ngon, bài kiểm tra giữa kì thì ko giữ đề
+- Phần bài tập thực hành thì dùng ngon. Bài kiểm tra giữa kì ko giữ đề
 ---
 
 **Review/Tips qua môn XD:**
-- Cô Hậu chill, gọi lên bảng khả năng cao chỉ 1 lần, cố lên bảng mấy bài đầu lấy điểm cao để bài sau ko bị gọi
+- Cô Hậu chill, gọi lên bảng chỉ 1 lần, cố lên bảng mấy bài đầu lấy điểm cao để bài sau ko bị gọi
 - Kiểm tra tổng 4 bài, 2 lý thuyết 2 thực hành, giữa kì cuối kì. Ko thi tập trung. Thi lý thuyết phải dùng SafeBrowser (ko thoát được màn hình làm bài). Kiểm tra lý thuyết 2 phần, phần trắc nghiệm khoảng 60 câu làm trong hơn 1 tiếng, phần tự luận vẽ hình/làm bài ra giấy.
 
 - Cô Trang, Anh Công very chill. Anh hay tâm sự kể chuyện
